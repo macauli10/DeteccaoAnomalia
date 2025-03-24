@@ -1,0 +1,2 @@
+### Detecção de Anomalias em Séries Temporais
+#Este projeto tem como objetivo realizar a detecção de anomalias em séries temporais utilizando técnicas de modelagem estatística. O processo envolve a análise dos dados, o uso de modelos ARIMA para decomposição e identificação de pontos atípicos.
